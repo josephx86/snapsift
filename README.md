@@ -1,6 +1,6 @@
 # snapsift
 
-GUI tool for easy clean up of duplicate pictures in folder based on [rmlint](https://github.com/sahib/rmlint)
+GUI tool for easy clean up of duplicate pictures in a folder, based on [rmlint](https://github.com/sahib/rmlint)
 
 ## Getting Started
 

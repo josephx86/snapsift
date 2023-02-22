@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'home.dart';
+import 'screens/home.dart';
 import 'strings.dart';
 
 class SnapSift extends StatelessWidget {
